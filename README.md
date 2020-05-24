@@ -8,6 +8,8 @@ Repositorio de Visualización de la Información - Especialización en Ciencia d
   * Tableau: [7 de Mayo 2020](https://igna43.github.io/infovis/makeovermonday2020W18.html)
 + Week 19 - World Happiness Report:
   * Tableau: [17 de Mayo 2020](https://igna43.github.io/infovis/makeovermondayw19.html)
++ Week 20 - Auto Insurance Rate:
+ * Tableau: [21 de Mayo]
 
 ## Trabajo Práctico Final
 
