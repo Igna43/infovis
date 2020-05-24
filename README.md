@@ -4,9 +4,10 @@ Repositorio de Visualización de la Información - Especialización en Ciencia d
 
 
 ## Makeover Monday
-
-[Makeover Monday W18](https://igna43.github.io/infovis/makeovermonday2020W18.html)
-
++ Week 18 - Obstetric Fistula:
+  * Tableau: [7 de Mayo 2020](https://igna43.github.io/infovis/makeovermonday2020W18.html)
++ Week 19 - World Happiness Report:
+  *
 
 ## Trabajo Práctico Final
 
