@@ -1,7 +1,9 @@
 # infovis
 
 Repositorio de Visualización de la Información - Especialización en Ciencia de Datos - ITBA.
+
 -----------------------------------------------------------------------------------------------------------------------
+
 ### Makeover Monday
 
 [Makeover Monday W18](https://igna43.github.io/infovis/makeovermonday2020W18.html)
