@@ -11,7 +11,7 @@ Repositorio de Visualización de la Información - Especialización en Ciencia d
 + Week 20 - Auto Insurance Rate:
   * Tableau: [21 de Mayo](https://igna43.github.io/infovis/makeovermonday2020W20.html)
 
-## Trabajo Práctico Final: Visualización de la Información - Cohorte C.
+## Trabajo Práctico Final
 
 [TP Final - InfoVis](https://igna43.github.io/infovis/TP_Final.html)
 
