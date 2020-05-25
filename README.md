@@ -16,7 +16,7 @@ Repositorio de Visualización de la Información - Especialización en Ciencia d
 
 ## Trabajo Práctico Final
 
-[TP Final - InfoVis](https://igna43.github.io/infovis/TP_Final.html)
+[TP Final - InfoVis - 28 de Mayo](https://igna43.github.io/infovis/TP_Final.html)
 
 
 ## Varios
