@@ -15,9 +15,8 @@ Repositorio de Visualización de la Información - Especialización en Ciencia d
     * RAWGraph Hexagonal Binning: [21 de Mayo](http://bl.ocks.org/Igna43/27221999a39060a4cc6d2c5286028150)
 
 ## Trabajo Práctico Final
-
-[TP Final - InfoVis - 28 de Mayo](https://igna43.github.io/infovis/TP_Final.html)
-
++ Análisis de Hábitos:
+  * Tableau: [28 de Mayo](https://igna43.github.io/infovis/TP_Final.html)
 
 ## Varios
 
