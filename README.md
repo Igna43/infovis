@@ -12,6 +12,8 @@ Repositorio de Visualización de la Información - Especialización en Ciencia d
     * Tableau Scatterplot: [21 de Mayo 2020](https://igna43.github.io/infovis/makeovermonday2020W20.html)
     * RAWGraph Classic Scatterplot: [21 de Mayo 2020](http://bl.ocks.org/Igna43/1040097696f6cccb4e8f7f8f17b43290)
     * RAWGraph Hexagonal Binning: [21 de Mayo 2020](http://bl.ocks.org/Igna43/27221999a39060a4cc6d2c5286028150)
++ Week 21 - 40 Years of Industry Music Sales:
+    * Tableau: [25 de Mayo](https://igna43.github.io/infovis/makeovermonday2020W21.html)
 
 ## Trabajo Práctico Final
 + Análisis de Hábitos:
