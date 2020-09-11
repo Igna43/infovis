@@ -15,10 +15,6 @@ Repositorio de Visualización de la Información - Especialización en Ciencia d
 + Week 21 - 40 Years of Industry Music Sales:
     * Tableau: [25 de Mayo](https://igna43.github.io/infovis/makeovermonday2020W21.html)
 
-## Trabajo Práctico Final
-+ Análisis de Hábitos:
-  * Tableau: [28 de Mayo](https://igna43.github.io/infovis/TP_Final.html)
-
 ## Varios
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
